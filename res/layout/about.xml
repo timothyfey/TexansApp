@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="11" android:orientation="1" android:background="#ffffff" android:padding="30dp" android:layout_width="-2" android:layout_height="-2">
+    <TextView android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="30dp" android:text="Created 2013 by Tim Fey" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+    <TextView android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="50dp" android:text="HoustonTexansNewsApp@gmail.com" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+    <ImageView android:layout_width="-1" android:layout_height="-1" android:src="@drawable/texans" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+</RelativeLayout>

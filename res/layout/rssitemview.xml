@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:padding="10dp" android:layout_width="-1" android:layout_height="-2">
+    <TextView android:textSize="20sp" android:textStyle="1" android:textColor="#ffffff" android:id="@id/txtTitle" android:background="@color/txblue" android:padding="5dp" android:layout_width="-1" android:layout_height="-2" android:text="Title" />
+    <TextView android:textSize="12sp" android:textStyle="2" android:textColor="#ffffff" android:id="@id/txtDate" android:background="@color/txblue" android:padding="5dp" android:layout_width="-1" android:layout_height="-2" android:text="Date" />
+    <TextView android:textSize="12sp" android:textStyle="0" android:textColor="#ffffff" android:id="@id/txtDescription" android:background="@color/txblue" android:padding="5dp" android:layout_width="-1" android:layout_height="-2" android:text="Description" />
+</LinearLayout>

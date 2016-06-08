@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Houston Texans News App</string>
+    <string name="action_settings">Settings</string>
+    <string name="espn_label">ESPN Video</string>
+    <string name="texansvideo_label">HoustonTexans.com Video</string>
+    <string name="texansnews_label">HoustonTexans.com News</string>
+    <string name="chron_label">Houston Chronicle</string>
+    <string name="khou_label">KHOU Houston</string>
+    <string name="pft_label">Pro Football Talk</string>
+    <string name="nflnews_label">NFL.com News</string>
+    <string name="nflvideo_label">NFL.com Highlights</string>
+    <string name="about_label">About</string>
+    <string name="roster_label">Roster</string>
+    <string name="schedule_label">Schedule</string>
+    <string name="video"><u>VIDEO</u></string>
+    <string name="news"><u>NEWS</u></string>
+    <string name="info"><u>Texans Info</u></string>
+    <string name="audio"><u>AUDIO</u></string>
+</resources>

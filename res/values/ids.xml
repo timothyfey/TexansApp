@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="myWebView">false</item>
+    <item type="id" name="video_button">false</item>
+    <item type="id" name="roster_button">false</item>
+    <item type="id" name="schedule_button">false</item>
+    <item type="id" name="espn_button">false</item>
+    <item type="id" name="texansvideo_button">false</item>
+    <item type="id" name="audio_button">false</item>
+    <item type="id" name="texanspod_button">false</item>
+    <item type="id" name="news_button">false</item>
+    <item type="id" name="texansnews_button">false</item>
+    <item type="id" name="chron_button">false</item>
+    <item type="id" name="khou_button">false</item>
+    <item type="id" name="pft_button">false</item>
+    <item type="id" name="nflnews_button">false</item>
+    <item type="id" name="about_button">false</item>
+    <item type="id" name="name">false</item>
+    <item type="id" name="number">false</item>
+    <item type="id" name="position">false</item>
+    <item type="id" name="height">false</item>
+    <item type="id" name="weight">false</item>
+    <item type="id" name="bats_throws">false</item>
+    <item type="id" name="txtTitle">false</item>
+    <item type="id" name="txtDate">false</item>
+    <item type="id" name="txtDescription">false</item>
+    <item type="id" name="action_settings">false</item>
+</resources>
